@@ -1,0 +1,37 @@
+padrão mvc - padrão model-view e controller (arquitetura de softwere)
+
+arquivos de modelos para guardar todos os modelos utiizads 
+
+arquivo controler vai ter a logica utilizando todos os modelos 
+
+Dao é o aquivo responsavel a permitir o acesso aos arquivos tipo banco de dados
+
+view é pra mostrar noterminal as opções mas da pra usar o tkinter ou qualquer outra linguagem front e vai continuar os outros arquivos noterminal
+
+=========================================================
+
+criação do model
+
+    crie o arquivo Models.py e desenvolva os medelos necessários a sua aplicação como no exemplo
+
+===============================================================
+
+criação da DAO (data actviti object , dados de nossa aplicação )
+
+    crie o arquivo DAO.py e desenvolva suas chamadas de dados (salvar e ler)
+
+===============================================================
+
+Criação do controller
+
+    riar a logica de nosso sistema com o arquivo Controller.py
+
+===============================================================
+
+Criação da view
+
+
+
+=============== notas importantes deste projteo
+
+map filter veja a funcionalida em controller
